@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="xQxmYpuqncZcPvGOqcZG" name="Page-1">
+        <mxGraphModel dx="576" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;fontColor=#FF9999;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;h1&gt;&lt;i&gt;&lt;font color=&quot;#ff9999&quot;&gt;INICIO&lt;/font&gt;&lt;/i&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3FF66;fontColor=#ffffff;strokeColor=#B3FF66;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;fontColor=#FF9999;" edge="1" parent="1" source="3" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;h2&gt;&lt;i&gt;R&lt;/i&gt;&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#7F00FF;fontColor=#FF9999;fillColor=#7F00FF;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;fontColor=#FF9999;" edge="1" parent="1" source="6" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;h2&gt;&lt;i&gt;A: PIR2&lt;/i&gt;&lt;/h2&gt;&lt;h2&gt;&lt;i&gt;P: 2PIR&lt;/i&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFCC;fontColor=#FF9999;fillColor=#FFFF99;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="280" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;fontColor=#FF9999;" edge="1" parent="1" source="8" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;h2&gt;&lt;i&gt;A,P&lt;/i&gt;&lt;/h2&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#00CCCC;fontColor=#FF9999;fillColor=#00CCCC;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="400" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;h2&gt;&lt;i&gt;FIN&lt;/i&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCFF99;fontColor=#FF9999;fillColor=#CCFF99;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="525" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
